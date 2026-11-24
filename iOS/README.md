@@ -1,5 +1,7 @@
 # 如许AI · iPhone 版
 
+**简体中文** · [English](README.en.md)
+
 在 iPhone 上把截图、文章或 PDF 交给如许AI，阅读解释，接着就原文提问。适用于 iOS 17 及以上。主 App 和系统分享面板共用模型设置、API Key 和本机阅读记录。
 
 ## 在 iPhone 上使用
