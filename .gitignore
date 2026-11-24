@@ -1,0 +1,25 @@
+# Local builds and recordings
+/.build-*/
+/*.exe
+/*.zip
+*.bak
+/演示/
+bin/
+obj/
+build/
+DerivedData/
+xcuserdata/
+*.xcuserstate
+.DS_Store
+.vs/
+Thumbs.db
+
+# Local configuration, reading history and signing material
+.env
+.env.*
+*.pfx
+*.p12
+*.pem
+*.p8
+*.mobileprovision
+ReadingHistory/
